@@ -1,0 +1,23 @@
+package pages;
+
+import org.openqa.selenium.WebDriver;
+
+public class ProdutoPage {
+	
+	private WebDriver driver;
+	
+	private By nomeProduto = By.class
+	
+	public ProdutoPage (WebDriver driver) {
+		this.driver = driver;
+	}
+	
+	public String obterNomeProduto() {
+		
+	}
+	
+	public String obterPrecoProduto() {
+		
+	}
+
+}

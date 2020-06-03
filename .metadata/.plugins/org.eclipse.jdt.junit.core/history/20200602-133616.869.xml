@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HomePageTests" project="ecommerce_prestashop" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="homepage.HomePageTests" time="27.573" displayname="HomePageTests" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]">
+    <testcase name="testValidarCarrinhoZerado_ZeroItensNoCarrinho" classname="homepage.HomePageTests" time="7.544" displayname="testValidarCarrinhoZerado_ZeroItensNoCarrinho()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testValidarCarrinhoZerado_ZeroItensNoCarrinho()]"/>
+    <testcase name="testLoginComSucesso_UsuarioLogado" classname="homepage.HomePageTests" time="10.089" displayname="testLoginComSucesso_UsuarioLogado()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testLoginComSucesso_UsuarioLogado()]"/>
+    <testcase name="testContarProdutos_oitoProdutosDiferentes" classname="homepage.HomePageTests" time="3.849" displayname="testContarProdutos_oitoProdutosDiferentes()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testContarProdutos_oitoProdutosDiferentes()]"/>
+    <testcase name="testValidarDetalhesDoProduto_DescricaoEValorIguais" classname="homepage.HomePageTests" time="6.091" displayname="testValidarDetalhesDoProduto_DescricaoEValorIguais()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testValidarDetalhesDoProduto_DescricaoEValorIguais()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HomePageTests" project="ecommerce_prestashop" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="homepage.HomePageTests" time="10.064" displayname="HomePageTests" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]">
+    <testcase name="testValidarCarrinhoZerado_ZeroItensNoCarrinho" classname="homepage.HomePageTests" time="5.901" displayname="testValidarCarrinhoZerado_ZeroItensNoCarrinho()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testValidarCarrinhoZerado_ZeroItensNoCarrinho()]"/>
+    <testcase name="testContarProdutos_oitoProdutosDiferentes" classname="homepage.HomePageTests" time="4.163" displayname="testContarProdutos_oitoProdutosDiferentes()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testContarProdutos_oitoProdutosDiferentes()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,13 @@
+package pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class LoginPage {
+	private WebDriver driver;
+	
+	private By email = By.className("email");
+	
+	private By password = By.className ("password");
+
+}

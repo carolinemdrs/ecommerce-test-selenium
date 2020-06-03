@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HomePageTests" project="ecommerce_prestashop" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="homepage.HomePageTests" time="9.462" displayname="HomePageTests" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]">
+    <testcase name="testContarProdutos_oitoProdutosDiferentes" classname="homepage.HomePageTests" time="9.462" displayname="testContarProdutos_oitoProdutosDiferentes()" uniqueid="[engine:junit-jupiter]/[class:homepage.HomePageTests]/[method:testContarProdutos_oitoProdutosDiferentes()]"/>
+  </testsuite>
+</testrun>
